@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/dhirajkuma95814" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajkuma95814?logo=twitter&style=for-the-badge" alt="dhirajkuma95814" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning advanced Spring Cloud features, microservices architecture, Kubernetes, and exploring Next.js for scalable web applications**
+- 🌱 I’m currently learning ** advanced Spring Cloud features, microservices architecture, Kubernetes, and exploring Next.js for scalable web applications**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on open-source projects, scalable backend systems using Spring Boot, full-stack applications with the MERN stack, and innovative solutions for real-time applications**
+- 👯 I’m looking to collaborate on ** open-source projects, scalable backend systems using Spring Boot, full-stack applications with the MERN stack, and innovative solutions for real-time applications**
 
-- 🤝 I’m looking for help with **I’m looking for help with optimizing backend performance in Spring Boot applications, implementing advanced GraphQL APIs, and mastering Docker orchestration for large-scale projects**
+- 🤝 I’m looking for help with ** optimizing backend performance in Spring Boot applications, implementing advanced GraphQL APIs, and mastering Docker orchestration for large-scale projects**
 
-- 💬 Ask me about **Ask me about Java, Spring Boot, building RESTful APIs, full-stack development with the MERN stack, database optimization with MySQL, and real-time application architecture**
+- 💬 Ask me about ** Java, Spring Boot, building RESTful APIs, full-stack development with the MERN stack, database optimization with MySQL, and real-time application architecture**
 
 - 📫 How to reach me **dk194945@gmail.com**
 
